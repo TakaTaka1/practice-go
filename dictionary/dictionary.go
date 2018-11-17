@@ -1,9 +1,6 @@
 package main
 
 import "fmt"
-import "TEST"
-
-test()
 
 type Dictionary struct {
 	name    string
